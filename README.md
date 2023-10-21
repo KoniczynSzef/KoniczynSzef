@@ -20,9 +20,9 @@ My primary focus is on React, Next.js, TypeScript, and Tailwind CSS, and I do my
 
 Being a software engineer is not only about coding stuff. I really care about providing the best and practical solutions for my applications.
 
-- ✨ **Quality**: When I'm building a project, I really put a lot of effort into it. I try to firstly understand the problem, make sure solution I prepared is accurate and then write the code. 
+- 🌟 **Quality**: I prioritize delivering fully functional apps and designs to create remarkable, user-friendly and qualitative products. 
 - 🧠 **Continous Learning**: The tech world is constantly evolving and growing. To keep up, I'm learning and improving my skills. 
-- 💪 **Hard Work**: I put in the extra effort to ensure projects are fully functional and to the best of my abilities. Perseverance is key to success.
+- 💪 **Dedication**: I'm unwavering in my commitment to delivering projects on time and with a focus on excellence, ultimately driving project success.
 
 ## Technologies 
 
