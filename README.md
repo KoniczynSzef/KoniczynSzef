@@ -1,7 +1,9 @@
 
 # KoniczynSzef 🍀
 
-Hello! 👋 I'm Piotr, a frontend developer from Poland. I have a huge passion for creating beautiful websites and bringing digital ideas to life. 
+#### Hello! 👋 ####
+
+I'm Piotr, a frontend developer from Poland. I have a huge passion for creating beautiful websites and bringing digital ideas to life. 
 
 My primary focus is on React, Next.js, TypeScript, and Tailwind CSS, and I do my best to design elegant and user-friendly interfaces that stand out in the online world.
 
