@@ -13,21 +13,19 @@ const info = {
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koniczynszef&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## 👨‍💻 Passionate Coder
+## Projects
 
-```
-Welcome to my digital realm! I'm not just a coder; 
-I'm turning lines of code into functional works of art.
-```
+I'm always trying to learn and master new things by building projects. Here is some of my best work.
 
-### 🌟 Craftsmanship
-![Quality](https://img.shields.io/badge/Quality-Exceptional-brightgreen)
+-  [KanMaster](https://kanmaster.vercel.app)
 
-### 🧠 Continuous Development
-![Learning](https://img.shields.io/badge/Learning-Perpetual-blue)
+> ## _Manage projects with Kanban_
+> Application that helps managing projects using Kanban methodology
 
-### 💪 Dedication Unleashed
-![Dedication](https://img.shields.io/badge/Dedication-Unwavering-red)
+- [JSuperior](https://jsuperior.vercel.app)
+
+> ## _Learn JavaScript the easy way_
+> JSuperior is a open JS course for effective learning the most important web language
 
 ## Find me around the web 🌍:
 
