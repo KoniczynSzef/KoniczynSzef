@@ -1,4 +1,4 @@
-# KoniczynSzef 🍀
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=30&pause=1000&color=11F753&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+KoniczynSzef+%F0%9F%8D%80)](https://git.io/typing-svg)
 
 ```ts
 // Some information about me
@@ -6,26 +6,14 @@
 const info = {
     name: 'Piotr',
     country: 'Poland',
-    technologies: ['Next.js', 'TypeScript', 'React'],
-    grade: 'high school',
 };
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koniczynszef&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 🧑‍💻 Technologies 🧑‍💻
 
-## Projects
-
-I'm always trying to learn and master new things by building projects. Here is some of my best work.
-
--  [KanMaster](https://kanmaster.vercel.app)
-
-> ## _Manage projects with Kanban_
-> Application that helps managing projects using Kanban methodology
-
-- [JSuperior](https://jsuperior.vercel.app)
-
-> ## _Learn JavaScript the easy way_
-> JSuperior is a open JS course for effective learning the most important web language
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,git,nodejs,mysql" />
+</div>
 
 ## Find me around the web 🌍:
 
