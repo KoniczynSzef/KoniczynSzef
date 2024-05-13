@@ -12,7 +12,8 @@ const info = {
 ## 🧑‍💻 Technologies 🧑‍💻
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,git,nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=docker,git,vercel,github" />
 </div>
 
 ## Find me around the web 🌍:
